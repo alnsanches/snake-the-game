@@ -1,0 +1,16 @@
+body {
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(52, 165, 52);
+    background-image: url(snake.jpg);
+    
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff;
+}
